@@ -9,7 +9,7 @@ JAR_NAME=android-stubs.jar
 all: $(JAR_NAME)
 
 $(JAR_NAME): $(JAVA_CLASSES)
-	jar cvf $(JAR_NAME) $(JAVA_CLASSES) $(JAVA_SOURCES)
+	jar cvf $(JAR_NAME) android
 	@echo 
 	@echo "Created jar file: $(JAR_NAME)"
 
