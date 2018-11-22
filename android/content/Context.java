@@ -12,7 +12,7 @@ public class Context {
   }
  
   public String getPackageName() {
-    return "";
+    return "faked-package-name";
   }
   
 }

@@ -1,5 +1,7 @@
 package android.content.pm;
 
+import android.util.Log;
+
 public class PackageManager {
 
   public static PackageInfo pInfo = new PackageInfo();
