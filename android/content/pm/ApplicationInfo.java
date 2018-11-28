@@ -4,6 +4,6 @@ import android.os.Parcelable;
 
 
 public class ApplicationInfo /* extends PackageItemInfo */ implements Parcelable {
-  public static String dataDir = "faked-data-dir";
+  public final String dataDir = "faked-data-dir";
 
 }
