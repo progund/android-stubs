@@ -1,7 +1,7 @@
 JAVA_SOURCES=$(shell find . -name "*.java")
 JAVA_CLASSES=$(JAVA_SOURCES:%.java=%.class)
 
-VERSION=0.1.90
+VERSION=0.1.91
 JAR_NAME=android-stubs-$(VERSION).jar
 
 %.class:%.java
