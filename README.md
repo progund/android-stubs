@@ -13,7 +13,9 @@ Download the latest release, put it in your CLASSPATH and start hacking :)
 
 ### Class (used in your Android app) to execute locally
 
-Lets say you have a domain class for students, ```Student```, like this:
+Lets say you have a domain class for students, ```Student```. The class uses Android's Log api and therefore you can't compile and execute test locally... until now. Using Android Stubs you compile and execute some classes locally.
+
+Here's the domain class , ```Student```:
 
 ~~~
 /**
