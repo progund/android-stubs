@@ -10,9 +10,9 @@ Download the latest release, put it in your CLASSPATH and start hacking :)
 
 ## Example usage
 
-Lets say you have a domain class for students, ~~~Student~~~.
+Lets say you have a domain class for students, ```Student```.
 
 
 # Contributing 
 
-You're more than welcome to contribute. Contact us via: ~~~android-devel _-AT-_ juneday.se~~~
+You're more than welcome to contribute. Contact us via: ```android-devel _-AT-_ juneday.se```
