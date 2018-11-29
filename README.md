@@ -110,7 +110,7 @@ public class StudentTest {
 
 ### Downloading android-stubs
 
-Go to (Android Stubbs)[https://github.com/progund/android-stubs] and click releases. Aim for the latest jar file (of the latest release) and download it. We download using ```curl``` so:
+Go to (Android Stubs)[https://github.com/progund/android-stubs] and click releases. Aim for the latest jar file (of the latest release) and download it. We download using ```curl``` so:
 
 ~~~
 curl -LJO https://github.com/progund/android-stubs/releases/download/01/android-stubs-0.1.91.jar
